@@ -8,7 +8,8 @@ DSA-in-Cpp/
 │
 ├── LinkedList/
 │   ├── singly_linked_list.cpp
-│
+│   ├── doubly linked list.cpp
+│   ├── circular linked list.cpp
 ├── Stack/
 │   ├── stack_array.cpp
 │
